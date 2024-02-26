@@ -3,6 +3,6 @@ This repo hosts backups of my substack newsletters from my Olmsted Scholarship e
 
 <a href="About Me and the Scholarship.pdf">About Me and the Scholarship</a>
 
-Posts (in reverse chronilogical order):
+Posts (in reverse chronological order):
 
 
