@@ -4,6 +4,7 @@ This repo hosts backups of my substack newsletters from my Olmsted Scholarship e
 <a href="About Me and the Scholarship.pdf">About Me and the Scholarship</a>
 
 Posts (in chronological order):
+
 <a href="20220404 - An Opportunity of a Lifetime.pdf">20220404 - An Opportunity of a Lifetime</a>
 
 <a href="20220626 - The Journey Begins!.pdf">20220626 - The Journey Begins!</a>
