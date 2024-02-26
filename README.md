@@ -1,5 +1,5 @@
 # SpacemanStyle
-This repo hosts backups of my substack newsletters from my Olmsted Scholarship experience in Seoul, South Korea.
+This repo hosts backups of my [Substack](https://www.spaceman.style) newsletters from my Olmsted Scholarship experience in Seoul, South Korea.
 
 <a href="About Me and the Scholarship.pdf">About Me and the Scholarship</a>
 
